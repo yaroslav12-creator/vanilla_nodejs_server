@@ -1,0 +1,12 @@
+[
+    {
+        "phone": "myPhone",
+        "id": "1",
+        "name": "IPhone" 
+    },
+    {   
+        "auto": "myAuto",
+        "id": "2",
+        "name": "Audi"
+    }
+]
