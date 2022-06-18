@@ -1,12 +1,1 @@
-[
-    {
-        "phone": "myPhone",
-        "id": "1",
-        "name": "IPhone" 
-    },
-    {   
-        "auto": "myAuto",
-        "id": "2",
-        "name": "Audi"
-    }
-]
+[{"phone":"myPhone","id":"1","name":"IPhone"},{"auto":"myAuto","id":"2","name":"Audi"},{"id":"9dd06bf5-405d-433e-af3f-12cfeacc0d43","title":"TITLE 3","description":"dedfgfdgd","price":"21345678"}]
